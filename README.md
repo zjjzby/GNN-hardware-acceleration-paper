@@ -23,3 +23,8 @@ Kiningham, Kevin, Philip Levis, and Christopher Ré. "**GReTA: Hardware Optimize
 Auten, Adam, Matthew Tomei, and Rakesh Kumar. "Hardware Acceleration of Graph Neural Networks." [[PDF](https://passat.crhc.illinois.edu/dac20.pdf)]
 
 He, Lei. "**EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks.**" arXiv preprint arXiv:1909.00155 (2019). [[PDF](https://arxiv.org/abs/1909.00155)]
+
+
+## Tensor accelerator evaluated using GNN
+
+Srivastava, Nitish, et al. "**Tensaurus: A Versatile Accelerator for Mixed Sparse-Dense Tensor Computations.**" 2020 IEEE International Symposium on High Performance Computer Architecture (HPCA). IEEE, 2020. [[PDF](https://ieeexplore.ieee.org/abstract/document/9065579?casa_token=qNrM5wiIDHkAAAAA:5AQlnXs55-B2dzJ61pXf4_82-hBXJ-3KgHqVXYGybGKKO1Ip6h1zaiLtImNk8iy13hE8pLF5)]
