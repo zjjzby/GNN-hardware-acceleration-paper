@@ -16,6 +16,8 @@ Hwang, Ranggi, et al. "**Centaur: A Chiplet-based, Hybrid Sparse-Dense Accelerat
 
 **AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing**. [[PDF](https://arxiv.org/abs/1908.10834)]
 
+Kiningham, Kevin, Philip Levis, and Christopher Ré. "**GReTA: Hardware Optimized Graph Processing for GNNs.**" (2020). [[PDF](https://pdfs.semanticscholar.org/3594/237164f2d4e01172216a59a3158ed27d8fe3.pdf)]
+
 
 ## GNN inference acceleration
 Auten, Adam, Matthew Tomei, and Rakesh Kumar. "Hardware Acceleration of Graph Neural Networks." [[PDF](https://passat.crhc.illinois.edu/dac20.pdf)]
