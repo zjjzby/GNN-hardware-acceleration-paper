@@ -21,3 +21,5 @@ Kiningham, Kevin, Philip Levis, and Christopher Ré. "**GReTA: Hardware Optimize
 
 ## GNN inference acceleration
 Auten, Adam, Matthew Tomei, and Rakesh Kumar. "Hardware Acceleration of Graph Neural Networks." [[PDF](https://passat.crhc.illinois.edu/dac20.pdf)]
+
+He, Lei. "**EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks.**" arXiv preprint arXiv:1909.00155 (2019). [[PDF](EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks)]
