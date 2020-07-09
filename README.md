@@ -15,3 +15,7 @@ Yan, Mingyu, et al. "**Hygcn: A gcn accelerator with hybrid architecture.**" 202
 Hwang, Ranggi, et al. "**Centaur: A Chiplet-based, Hybrid Sparse-Dense Accelerator for Personalized Recommendations.**" arXiv preprint arXiv:2005.05968 (2020). [[PDF](https://scholar.google.com/scholar?cluster=5865569946714123973&hl=en&as_sdt=0,5#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3AxS4aF8qwZlEJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26scfhb%3D1%26hl%3Den)]
 
 **AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing**. [[PDF](https://arxiv.org/abs/1908.10834)]
+
+
+## GNN inference acceleration
+Auten, Adam, Matthew Tomei, and Rakesh Kumar. "Hardware Acceleration of Graph Neural Networks." [[PDF](https://passat.crhc.illinois.edu/dac20.pdf)]
