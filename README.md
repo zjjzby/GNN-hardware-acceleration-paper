@@ -7,7 +7,8 @@ Zeng, Hanqing, and Viktor Prasanna. "Graphact: Accelerating gcn training on cpu-
 
 
 ### GCN inference acceleration
-Bingyi Zhang, Hanqing Zeng and Viktor Prasanna, Hardware Acceleration of Large Scale GCN Inference. [[PDF](https://asap2020.cs.manchester.ac.uk/paper.php?id=38)]
+Bingyi Zhang, Hanqing Zeng and Viktor Prasanna, Hardware Acceleration of Large Scale GCN Inference, The 31st IEEE International Conference on
+Application-specific Systems, Architectures and Processors. [[PDF](https://asap2020.cs.manchester.ac.uk/paper.php?id=38)]
 
 Yan, Mingyu, et al. "Hygcn: A gcn accelerator with hybrid architecture." 2020 IEEE International Symposium on High Performance Computer Architecture (HPCA). IEEE, 2020. [[PDF](https://ieeexplore.ieee.org/abstract/document/9065592?casa_token=xYoRGK3KOlQAAAAA:d1tb6NVpA-JwTY7phB2DrorXzrXvawnommhjvemkHn2GSJCCmtKwljB5lXDuDmVgUkgBaiLG)]
 
