@@ -28,3 +28,9 @@ He, Lei. "**EnGN: A High-Throughput and Energy-Efficient Accelerator for Large G
 ## Tensor accelerator evaluated using GNN
 
 Srivastava, Nitish, et al. "**Tensaurus: A Versatile Accelerator for Mixed Sparse-Dense Tensor Computations.**" 2020 IEEE International Symposium on High Performance Computer Architecture (HPCA). IEEE, 2020. [[PDF](https://ieeexplore.ieee.org/abstract/document/9065579?casa_token=qNrM5wiIDHkAAAAA:5AQlnXs55-B2dzJ61pXf4_82-hBXJ-3KgHqVXYGybGKKO1Ip6h1zaiLtImNk8iy13hE8pLF5)]
+
+## GNN accelerationg using GPGPU (general purpose graph processing unit)
+
+Guyue Huang, Guohao Dai, Yu Wang, Huazhong Yang, **GE-SpMM: General-purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks**, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'20) [[PDF](https://arxiv.org/abs/2007.03179)]
+
+
