@@ -33,5 +33,7 @@ Srivastava, Nitish, et al. "**Tensaurus: A Versatile Accelerator for Mixed Spars
 
 Guyue Huang, Guohao Dai, Yu Wang, Huazhong Yang, **GE-SpMM: General-purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks**, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'20) [[PDF](https://arxiv.org/abs/2007.03179)]
 
+C. Tian, L. Ma, Z. Yang and Y. Dai, "**PCGCN: Partition-Centric Processing for Accelerating Graph Convolutional Network,**" 2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS), New Orleans, LA, USA, 2020, pp. 936-945, doi: 10.1109/IPDPS47924.2020.00100 [[PDF](https://ieeexplore.ieee.org/abstract/document/9139807)]
+
 **GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs** [[PDF](https://arxiv.org/pdf/2006.06608.pdf)]
 
