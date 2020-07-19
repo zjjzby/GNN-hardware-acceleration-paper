@@ -5,6 +5,8 @@ This repo is to collect the state-of-the-art GNN hardware acceleration paper
 ## GCN training acceleration
 Zeng, Hanqing, and Viktor Prasanna. "**Graphact: Accelerating gcn training on cpu-fpga heterogeneous platforms.**" The 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. 2020 [[PDF](https://dl.acm.org/doi/abs/10.1145/3373087.3375312?casa_token=8kcTIaTaLeEAAAAA:d4AqDlFmWVDwh4w2cfF_zXljwnWNEDNjdI4xRHscrYpde5MJR4uwmganQPqEq1kfDOpFGQb5BCaB)]
 
+Zeng, Hanqing, et al. "**Accurate, efficient and scalable graph embedding.**" 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS). IEEE, 2019. [[PDF](https://arxiv.org/abs/1810.11899)]
+
 
 ## GCN inference acceleration
 Bingyi Zhang, Hanqing Zeng and Viktor Prasanna, **Hardware Acceleration of Large Scale GCN Inference**, The 31st IEEE International Conference on
