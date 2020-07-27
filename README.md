@@ -4,6 +4,7 @@ This repo is to collect the state-of-the-art GNN hardware acceleration paper
 
 ## GNN generic framework
 **PYG: Fast Graph Representation Learning with PyTorch Geometric** [[PDF](https://arxiv.org/abs/1903.02428)][[github](https://github.com/rusty1s/pytorch_geometric)]
+
 **DGL: Deep Graph Library (DGL)**, [[github](https://github.com/dmlc/dgl)]
 
 ## GCN training acceleration
