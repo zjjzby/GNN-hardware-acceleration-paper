@@ -45,3 +45,5 @@ C. Tian, L. Ma, Z. Yang and Y. Dai, "**PCGCN: Partition-Centric Processing for A
 **GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs** [[PDF](https://arxiv.org/pdf/2006.06608.pdf)]
 
 M. Yan et al., "**Characterizing and Understanding GCNs on GPU**," in IEEE Computer Architecture Letters, vol. 19, no. 1, pp. 22-25, 1 Jan.-June 2020, doi: 10.1109/LCA.2020.2970395. [[PDF](https://ieeexplore.ieee.org/abstract/document/8976117)]
+
+**NeuGraph: Parallel Deep Neural Network Computation on Large Graphs**, [[PDF](https://www.usenix.org/system/files/atc19-ma_0.pdf)]
