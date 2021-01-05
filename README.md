@@ -27,6 +27,8 @@ Kiningham, Kevin, Philip Levis, and Christopher Ré. "**GReTA: Hardware Optimize
 
 
 ## GNN inference acceleration
+Liang, Shengwen, et al. "**DeepBurning-GL: an automated framework for generating graph neural network accelerators.**" 2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD). IEEE, 2020. [[PDF](https://ieeexplore.ieee.org/abstract/document/9256539)]
+
 Auten, Adam, Matthew Tomei, and Rakesh Kumar. "**Hardware Acceleration of Graph Neural Networks.**" [[PDF](https://passat.crhc.illinois.edu/dac20.pdf)]
 
 He, Lei. "**EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks.**" arXiv preprint arXiv:1909.00155 (2019). [[PDF](https://arxiv.org/abs/1909.00155)]
