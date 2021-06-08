@@ -14,6 +14,8 @@ Zeng, Hanqing, et al. "**Accurate, efficient and scalable graph embedding.**" 20
 
 
 ## GCN inference acceleration
+Zhang, Bingyi, Rajgopal Kannan, and Viktor Prasanna. "BoostGCN: A Framework for Optimizing GCN Inference on FPGA." 2021 IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE, 2021. [[PDF](https://ieeexplore.ieee.org/abstract/document/9444065)]
+
 Bingyi Zhang, Hanqing Zeng and Viktor Prasanna, **Hardware Acceleration of Large Scale GCN Inference**, The 31st IEEE International Conference on
 Application-specific Systems, Architectures and Processors. [[PDF](https://asap2020.cs.manchester.ac.uk/paper.php?id=38)]
 
